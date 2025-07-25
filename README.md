@@ -15,7 +15,7 @@ Figure 1: Conceptual overview of the School Management System Database.
 The database consists of five tables with relationships defined by foreign keys, as shown in the Entity-Relationship Diagram (ERD) below.
 
 
-![Logo](C:\Users\potth\OneDrive\Documents\sql files\school_mangment_database\Screenshot 2025-07-24 111237)
+![Logo](https://github.com/12345kumar/school_managment_system/blob/main/school_mangment_database/Screenshot%202025-07-24%20111237.png?raw=true)
 
 **Tables**
 
